@@ -1,0 +1,15 @@
+package in.vikram.test;
+
+import java.util.Date;
+
+import in.vikram.comp.WishMessageGenerator;
+
+public class TestApp {
+
+	public static void main(String[] args) {
+		WishMessageGenerator WMG=new WishMessageGenerator();
+		Date date = new Date();
+WMG.setDate(date);
+	}
+
+}

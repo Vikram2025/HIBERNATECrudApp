@@ -1,0 +1,22 @@
+package in.vikram.test;
+
+import java.util.Date;
+
+import in.vikram.comp.WishMessageGenerator;
+
+public class TestApp {
+
+	public static void main(String[] args) {
+		//Creating  a Object of the class  
+		WishMessageGenerator WMG=new WishMessageGenerator();
+		
+		//Creating Object of The Date to set in Using SetterInjection
+		Date date = new Date();
+		
+           WMG.setDate(date);
+           //Check the Date and Execute The Method 
+           WMG.generateMessage("Vikram");
+           System.out.println(WMG);
+	}
+
+}

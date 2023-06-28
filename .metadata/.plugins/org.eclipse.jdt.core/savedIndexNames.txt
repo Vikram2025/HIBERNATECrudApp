@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+D:\nitin sir String Program\.metadata\.plugins\org.eclipse.jdt.core
+751350738.index
+1154889189.index
+2500506089.index
+3889466698.index
+3671440962.index
+988665371.index
+1207197834.index
+379586090.index
+3393995043.index
+1825065378.index
+1781522708.index
+3189805329.index
+2408938752.index
+4062475567.index
+1409193492.index
+2248219041.index
+2591802780.index
+1757562478.index
+1297887081.index
